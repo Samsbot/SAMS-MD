@@ -51,7 +51,7 @@
 
 1, <a href="https://github.com/sams/SAMS-MD/fork"><img src="https://img.shields.io/badge/Fork%20My%20Repository-blue" alt="Fork my repository" width="300"></a>
 
-2, TAP ON KEITH TECH APP DOWN THERE
+2, TAP ON SAMS-MD APP DOWN THERE
 
 
 
@@ -59,7 +59,7 @@
 
 
 
-4, TAP DEPLOY.., AND DEPLOY IT ON HEROKU ..Use Sams-md App..
+4, TAP DEPLOY.., AND DEPLOY IT ON HEROKU ..Use SAMS-MD App..
 
 ## 𝐂𝐋𝐈𝐂𝐊 𝐎𝐍 HEROKU OR 𝐀𝐏𝐏 𝐓𝐎 𝐃𝐄𝐏𝐋𝐎𝐘  SAMS-MD
 <h1 align="center">
@@ -77,7 +77,7 @@
 
 
   ***<p align="center"><a href="https://keithtech-session-bd5cfaec090b.herokuapp.com/">
- <img src="https://img.shields.io/badge/TAP%20HERE%20TO%20OPEN%20KEITH%20TECH%20APP-white?style=for-the-badge&logo=Huncho" width="300" height="38.45"/></a></p>***
+ <img src="https://img.shields.io/badge/TAP%20HERE%20TO%20OPEN%20SAMS%20MD%20APP-white?style=for-the-badge&logo=SAMS" width="300" height="38.45"/></a></p>***
 
 
 
@@ -101,14 +101,14 @@ Contributions to *SAMS-MD* are welcome! If you have ideas for new features, impr
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
   
-[![keithkeizzah GitHub stats](https://github-readme-stats.vercel.app/api?username=samsbot&show_icons=true&theme=radical)](https://github.com/samsbot)
+[![Sams md GitHub stats](https://github-readme-stats.vercel.app/api?username=samsbot&show_icons=true&theme=radical)](https://github.com/samsbot)
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 ## License
 
-The *KEITH-MD* is released under the [MIT License](https://opensource.org/licenses/MIT).
+The *SAMS-MD* is released under the [MIT License](https://opensource.org/licenses/MIT).
 
 Enjoy the diverse features of the *SAMS-MD*  to enhance your Whatsapp more enjoyable
 ☣Powered by Sams Tech
