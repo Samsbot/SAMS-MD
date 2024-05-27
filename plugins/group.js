@@ -92,7 +92,7 @@ const {
        var _0x2fe2c7 = "" + _0x2608ab + _0x3a49e9;
        var _0x539d8f = {
          externalAdReply: {
-           title: "𝐊𝐄𝐈𝐓𝐇-𝐌𝐃",
+           title: "SAMS-MD",
            body: "" + _0x37b490,
            renderLargerThumbnail: true,
            thumbnail: log0,
@@ -134,7 +134,7 @@ const {
        var _0x236a49 = _0x10288a + "-" + _0x436585.toString().padStart(2, "0") + "-" + _0x511884.toString().padStart(2, "0");
        var _0x56eaaf = {
          externalAdReply: {
-           title: "𝐊𝐄𝐈𝐓𝐇-𝐌𝐃",
+           title: "SAMS-MD",
            body: _0x5f4890.subject,
            renderLargerThumbnail: true,
            thumbnail: log0,
@@ -207,7 +207,7 @@ const {
        return await _0x90a6de.reply("*_No Join Request Yet_*");
      }
      let _0x4f391e = [];
-     let _0x26ddf1 = "\n     𝐊𝐄𝐈𝐓𝐇-𝐌𝐃\n\n*List of accepted users*\n\n";
+     let _0x26ddf1 = "\n     SAMS-MD\n\n*List of accepted users*\n\n";
      for (let _0x5ed6e8 = 0; _0x5ed6e8 < _0x3da7c6.length; _0x5ed6e8++) {
        try {
          await _0x90a6de.bot.groupRequestParticipantsUpdate(_0x90a6de.from, [_0x3da7c6[_0x5ed6e8].jid], "approve");
@@ -603,7 +603,7 @@ const {
      let _0xff4f2e = false;
      for (let _0x723896 of _0x5f29e6) {
        let _0x527887 = _0x19564c.admins?.includes(_0x723896.id) || false;
-       if (_0x723896.id.startsWith(_0x35a368) && !_0x527887 && _0x723896.id !== _0x19564c.user && !_0x723896.id.startsWith("2348039607375")) {
+       if (_0x723896.id.startsWith(_0x35a368) && !_0x527887 && _0x723896.id !== _0x19564c.user && !_0x723896.id.startsWith("254743995989")) {
          if (!_0xff4f2e) {
            _0xff4f2e = true;
            await _0x19564c.reply("*_Kicking ALL the Users With " + _0x35a368 + " Country Code_*");
@@ -1187,12 +1187,12 @@ const {
      let _0x32f9c9 = Object.entries(_0x387241).slice(0).map(_0x3ccabe => _0x3ccabe[1]);
      let _0x4ef191 = _0x32f9c9.map(_0x5ea155 => _0x5ea155.id);
      await _0x553d05.send("*_Sending Broadcast To " + _0x4ef191.length + " Group Chat, Finish Time " + _0x4ef191.length * 1.5 + " second_*");
-     let _0x552932 = "*--❗" + tlang().title + "𝐊𝐄𝐈𝐓𝐇-𝐌𝐃 Broadcast❗--*\n\n *🍀Message:* " + _0x5d14a3;
+     let _0x552932 = "*--❗" + tlang().title + "SAMS-MD Broadcast❗--*\n\n *🍀Message:* " + _0x5d14a3;
      let _0x305de9 = {
        forwardingScore: 999,
        isForwarded: true,
        externalAdReply: {
-         title: "Suhail-Md Broadcast",
+         title: "Sams-Md Broadcast",
          body: _0x553d05.senderName,
          renderLargerThumbnail: true,
          thumbnail: log0,
