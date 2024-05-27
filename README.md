@@ -9,7 +9,7 @@
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
  
-<p align="center"> SAMS MD💥, A Simple WhatsApp user BOT, Created by Keith Tech.
+<p align="center"> SAMS MD💥, A Simple WhatsApp user BOT, Created by Sams Laurent.
 </p>
 
 
