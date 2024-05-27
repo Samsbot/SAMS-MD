@@ -1,7 +1,7 @@
 {
-  "name": "drex-md-v2",
+  "name": "sams-md",
   "description": "Simple WhatsApp Bot",
-  "logo": "https://telegra.ph/file/74efdf52df9d0eadb76d2.jpg",
+  "logo": "https://telegra.ph/file/f6c900e5ac20c5d6e7db1.jpg",
   "keywords": ["keith-d-v2", "keithv2", "keith md","keith client","keith","keithtech"],
   "success_url": "/",
   "stack": "container",
@@ -9,7 +9,7 @@
   "env": {
     "OWNER_NAME": {
       "description": "Name for Bot Owner",
-      "value": "𝐊𝐄𝐈𝐓𝐇 𝐓𝐄𝐂𝐇",
+      "value": "SAMS-MD",
       "required": true
     },
 
@@ -27,7 +27,7 @@
     "BOT_NAME": {
       "description": " NAME FOR BOT",
       "required": false,
-      "value": "𝐊𝐄𝐈𝐓𝐇-𝐌𝐃"
+      "value": ""
     },
     "TZ": {
       "description": "Put TIME_ZONE according to your location",
@@ -67,7 +67,7 @@
     "USER_IMAGES": {
       "description": "Insert your bot image url here",
       "required": false,
-      "value": "https://telegra.ph/file/74efdf52df9d0eadb76d2.jpg"
+      "value": "https://telegra.ph/file/8aad5bb942873d1b51c05.jpg"
     },
     "AUTO_READ_STATUS": {
       "description": "Fill the value true if you want bot view your Statuses.",
@@ -95,7 +95,7 @@
     },
     "OWNER_NUMBER": {
       "description": "The phone numbers of the users who you want to be admin for the bot (should be in international format without + and multiple numbers must be separated by a comma \",\")",
-      "value": "254748387615"
+      "value": "254743995989"
     },
     "SESSION_ID": {
       "description": "put your SESSION_ID here.",
@@ -107,7 +107,7 @@
     },
     "PACK_NAME": {
       "description": "Put Sticker Pack_Name.",
-      "value": "𝐊𝐄𝐈𝐓𝐇-𝐌𝐃",
+      "value": "SAMS-MD",
       "required": false
     },
     "PACK_AUTHER": {
