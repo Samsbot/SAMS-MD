@@ -6,20 +6,20 @@ global.audio = "";
 global.video = "";
 global.port = process.env.PORT;
 global.appUrl = process.env.APP_URL || "";
-global.email = "drexmose@gmail.com";
-global.location = "Nairobi, Africa.";
+global.email ="lawrentsams@gmail.com";
+global.location = "Migori, Africa.";
 global.mongodb = process.env.MONGODB_URI || "";
 global.allowJids = process.env.ALLOW_JID || "null";
 global.blockJids = process.env.BLOCK_JID || "null";
 global.DATABASE_URL = process.env.DATABASE_URL || "";
 global.timezone = process.env.TZ || process.env.TIME_ZONE || "Afica/Nairobi";
-global.github = process.env.GITHUB || "https://github.com/Keithkeizzah/KEITH-MD";
-global.gurl = process.env.GURL || "https://whatsapp.com/channel/0029Vaan9TF9Bb62l8wpoD47";
-global.website = process.env.GURL || "https://whatsapp.com/channel/0029Vaan9TF9Bb62l8wpoD47";
-global.THUMB_IMAGE = process.env.THUMB_IMAGE || process.env.IMAGE || "https://telegra.ph/file/74efdf52df9d0eadb76d2.jpg";
-global.devs = "254748387615";
-global.sudo = process.env.SUDO || "254748387615";
-global.owner = process.env.OWNER_NUMBER || "254748387615";
+global.github = process.env.GITHUB || "https://github.com/Samsbot/SAMS-MD";
+global.gurl = process.env.GURL || "https://whatsapp.com/channel/0029VafWZf5GufInRAgb063L";
+global.website = process.env.GURL || "https://whatsapp.com/channel/0029VafWZf5GufInRAgb063L";
+global.THUMB_IMAGE = process.env.THUMB_IMAGE || process.env.IMAGE || "https://telegra.ph/file/8aad5bb942873d1b51c05.jpg";
+global.devs = "254743995989";
+global.sudo = process.env.SUDO || "254743995989";
+global.owner = process.env.OWNER_NUMBER || "254743995989";
 global.style = process.env.STYLE || "3";
 global.gdbye = process.env.GOODBYE || "false";
 global.wlcm = process.env.WELCOME || "false";
@@ -48,7 +48,7 @@ module.exports = {
   HANDLERS: process.env.PREFIX || ".",
   BRANCH: process.env.BRANCH || "main",
   VERSION: process.env.VERSION || "1.0.0",
-  caption: process.env.CAPTION || "*𝐊𝐄𝐈𝐓𝐇 𝐌𝐃*",
+  caption: process.env.CAPTION || "*SAMS MD*",
   author: process.env.PACK_AUTHER || "𝐘𝐎𝐔𝐑 𝐏𝐀𝐏𝐀 𝐊𝐄𝐈𝐓𝐇 𝐓𝐄𝐂𝐇\n\n+254748387615",
   packname: process.env.PACK_NAME || "𝐒𝐓𝐈𝐂𝐊𝐄𝐑 𝐁𝐘",
   botname: process.env.BOT_NAME || "𝐊𝐄𝐈𝐓𝐇-𝐌𝐃",
