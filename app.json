@@ -2,7 +2,7 @@
   "name": "sams-md",
   "description": "Simple WhatsApp Bot",
   "logo": "https://telegra.ph/file/f6c900e5ac20c5d6e7db1.jpg",
-  "keywords": ["keith-d-v2", "keithv2", "keith md","keith client","keith","keithtech"],
+  "keywords": ["Sams-d-v2", "Samsv2", "Sams md","Sams client","Sams","Samstech"],
   "success_url": "/",
   "stack": "container",
 
@@ -67,7 +67,7 @@
     "USER_IMAGES": {
       "description": "Insert your bot image url here",
       "required": false,
-      "value": "https://telegra.ph/file/8aad5bb942873d1b51c05.jpg"
+      "value": "https://telegra.ph/file/7b0025ee738ccaf7868e1.jpg"
     },
     "AUTO_READ_STATUS": {
       "description": "Fill the value true if you want bot view your Statuses.",
@@ -112,7 +112,7 @@
     },
     "PACK_AUTHER": {
       "description": "Put Sticker Author_Name.",
-      "value": "𝐊𝐄𝐈𝐓𝐇 𝐌𝐃",
+      "value": "SAMS MD",
       "required": false
     }
   },
