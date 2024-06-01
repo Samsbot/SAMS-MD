@@ -49,10 +49,10 @@ module.exports = {
   BRANCH: process.env.BRANCH || "main",
   VERSION: process.env.VERSION || "1.0.0",
   caption: process.env.CAPTION || "*SAMS MD*",
-  author: process.env.PACK_AUTHER || "𝐘𝐎𝐔𝐑 𝐏𝐀𝐏𝐀 𝐊𝐄𝐈𝐓𝐇 𝐓𝐄𝐂𝐇\n\n+254748387615",
+  author: process.env.PACK_AUTHER || "𝐘𝐎𝐔𝐑 𝐏𝐀𝐏𝐀 SAMS 𝐓𝐄𝐂𝐇\n\n+254743995989",
   packname: process.env.PACK_NAME || "𝐒𝐓𝐈𝐂𝐊𝐄𝐑 𝐁𝐘",
-  botname: process.env.BOT_NAME || "𝐊𝐄𝐈𝐓𝐇-𝐌𝐃",
-  ownername: process.env.OWNER_NAME || "𝐊𝐄𝐈𝐓𝐇-𝐓𝐄𝐂𝐇",
+  botname: process.env.BOT_NAME || "Sams Laurent",
+  ownername: process.env.OWNER_NAME || "SAMS MD",
   errorChat: process.env.ERROR_CHAT || "25102074064",
   KOYEB_API: process.env.KOYEB_API || "false",
   REMOVE_BG_KEY: process.env.REMOVE_BG_KEY || "",
@@ -64,7 +64,7 @@ module.exports = {
   aitts_Voice_Id: process.env.AITTS_ID || "37",
   ELEVENLAB_API_KEY: process.env.ELEVENLAB_API_KEY || "",
   WORKTYPE: process.env.WORKTYPE || process.env.MODE || "private",
-  LANG: (process.env.THEME || "KEITH").toUpperCase(),
+  LANG: (process.env.THEME || "SAMS").toUpperCase(),
 };
 global.rank = "updated";
 global.isMongodb = false;
